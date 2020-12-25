@@ -27,3 +27,4 @@ jobs:
           source_branch: "master"
           destination_branch: "main"
           github_token: ${{ secrets.PAT }}
+
